@@ -10,6 +10,7 @@ const int zei = 20;
 const int spa = 50;
 
 // by GerH, 2013
+// http://bit.ly/GerhGithub
 
 void game(char map[zei][spa], int players, char mappes, int rounds){
      int zaehler = 0;                                             //Zeitrennen
@@ -1418,12 +1419,12 @@ cout<<"         ''''''      `baaaaaaP                                `YaaaadP''\
         if(mappes=='m' && players==285631404){
                //system ("cls");
                Sleep(6000);
-		       cout << "\n\nDon’t";Sleep(100);cout << " dismiss";Sleep(100);cout << " this";Sleep(100);cout << " outright";Sleep(100);cout << " as";Sleep(100);cout << " the";Sleep(100);cout << " work";Sleep(100);cout << " of";Sleep(100);cout << " a";Sleep(100);cout << " raving";Sleep(100);cout << " lunatic.";Sleep(100);cout << " There’s";Sleep(100);cout << " some";Sleep(100);
-               cout << " truth";Sleep(100);cout << " in";Sleep(100);cout << " what";Sleep(100);cout << " I";Sleep(100);cout << " have";Sleep(100);cout << " to";Sleep(100);cout << " say,";Sleep(100);cout << " if";Sleep(100);cout << " you’ll";Sleep(100);cout << " just";Sleep(100);cout << " hear";Sleep(100);cout << " me";Sleep(100);cout << " out.";
+		       cout << "\n\nDonÂ’t";Sleep(100);cout << " dismiss";Sleep(100);cout << " this";Sleep(100);cout << " outright";Sleep(100);cout << " as";Sleep(100);cout << " the";Sleep(100);cout << " work";Sleep(100);cout << " of";Sleep(100);cout << " a";Sleep(100);cout << " raving";Sleep(100);cout << " lunatic.";Sleep(100);cout << " ThereÂ’s";Sleep(100);cout << " some";Sleep(100);
+               cout << " truth";Sleep(100);cout << " in";Sleep(100);cout << " what";Sleep(100);cout << " I";Sleep(100);cout << " have";Sleep(100);cout << " to";Sleep(100);cout << " say,";Sleep(100);cout << " if";Sleep(100);cout << " youÂ’ll";Sleep(100);cout << " just";Sleep(100);cout << " hear";Sleep(100);cout << " me";Sleep(100);cout << " out.";
                Sleep(60000);
-               cout << "\n\nLook, we all wonder if time travel is possible, right? Let me just tell you something: it is. I’m from the future, actually. Now I realize you probably don’t believe that, but seriously, I’m from the future. And I must say—it’s been really great getting to see the past, watching events unfold as the world we’re familiar with comes to be. We know more now than we ever could, previously.";
+               cout << "\n\nLook, we all wonder if time travel is possible, right? Let me just tell you something: it is. IÂ’m from the future, actually. Now I realize you probably donÂ’t believe that, but seriously, IÂ’m from the future. And I must sayÂ—itÂ’s been really great getting to see the past, watching events unfold as the world weÂ’re familiar with comes to be. We know more now than we ever could, previously.";
                Sleep(60000);
-               cout << "\n\nBehind all the fun, however, there’s a more serious aspect to what we’re doing. We aren’t supposed to influence our own lifelines. And it’s absolutely forbidden to attempt to contact past selves. Well, I’m in direct violation of that rule. That’s right, kiddo, you’re talking to yourself. Your future self, at least. I’m going to be executed for this. But you know what? I accept that. Because, through talking to you, I am preventing something worse than death. I can’t speak outright about what you need to do, as the filters would catch me. But I can send you a little message. This is the closest I can get. I’m sorry, but you have to trust me.";
+               cout << "\n\nBehind all the fun, however, thereÂ’s a more serious aspect to what weÂ’re doing. We arenÂ’t supposed to influence our own lifelines. And itÂ’s absolutely forbidden to attempt to contact past selves. Well, IÂ’m in direct violation of that rule. ThatÂ’s right, kiddo, youÂ’re talking to yourself. Your future self, at least. IÂ’m going to be executed for this. But you know what? I accept that. Because, through talking to you, I am preventing something worse than death. I canÂ’t speak outright about what you need to do, as the filters would catch me. But I can send you a little message. This is the closest I can get. IÂ’m sorry, but you have to trust me.";
                Sleep(60000);
                cout << "\n\nYou should probably read the first word of every paragraph. Now.";
                Sleep(20000);
@@ -1434,35 +1435,35 @@ cout<<"         ''''''      `baaaaaaP                                `YaaaadP''\
         system ("cls");
                Sleep(1000);
                cout << "Hallo ich bin neu hier und habe mich extra wegen dieser Frage angemeldet.\n";Sleep(1000);
-               cout << "Hier gilt es grundsätzlich sehr genau zu differenzieren und nicht zu pauschalieren.\n";Sleep(1000); 
-               cout << "Zunächst einmal kann man sagen, dass alle Investoren in Sachwerte, ganz gleich ob in Gold oder in Holzplantagen in der aktuellen Finanz- und Wirtschaftskrise deutlich besser wegkommen, als Aktionäre oder gar Investoren in Zertifikate und Derivate. \n";Sleep(1000);
-               cout << "Das Investment in Holz gibt es schon seit über 100 Jahren und hat sich stets als solides Investment herausgestellt. \n";Sleep(1000);
-               cout << "Erst seit rund 15 Jahren steht diese Anlageform auch in größerem Umfang privaten Investoren zur Verfügung. \n";Sleep(1000);
-               cout << "Die Geschäftsmodelle sind dabei recht unterschiedlich und reichen von Aktien, also Anteilsscheinen bis hin zum Kauf genau nummerierter Bäume. \n";Sleep(1000);
-               cout << "Die Anbieter heißten dabei unter anderem ecoforest, Life Forestry, Lignum, Forest Finance, Sharewood, etc. \n";Sleep(1000);
-               cout << "Seriös sind diese Anbieter zunächst einmal alle. Problematisch für diese Branche ist, dass es einst ein schwarzes Schaf gab, das alle in Verruf gebracht hat. \n";Sleep(1000);
-               cout << "Die Prime Forestry hat nämlich 2006 einen unschönen Konkurs hingelegt. \n";Sleep(1000);
+               cout << "Hier gilt es grundsÃ¤tzlich sehr genau zu differenzieren und nicht zu pauschalieren.\n";Sleep(1000); 
+               cout << "ZunÃ¤chst einmal kann man sagen, dass alle Investoren in Sachwerte, ganz gleich ob in Gold oder in Holzplantagen in der aktuellen Finanz- und Wirtschaftskrise deutlich besser wegkommen, als AktionÃ¤re oder gar Investoren in Zertifikate und Derivate. \n";Sleep(1000);
+               cout << "Das Investment in Holz gibt es schon seit Ã¼ber 100 Jahren und hat sich stets als solides Investment herausgestellt. \n";Sleep(1000);
+               cout << "Erst seit rund 15 Jahren steht diese Anlageform auch in grÃ¶ÃŸerem Umfang privaten Investoren zur VerfÃ¼gung. \n";Sleep(1000);
+               cout << "Die GeschÃ¤ftsmodelle sind dabei recht unterschiedlich und reichen von Aktien, also Anteilsscheinen bis hin zum Kauf genau nummerierter BÃ¤ume. \n";Sleep(1000);
+               cout << "Die Anbieter heiÃŸten dabei unter anderem ecoforest, Life Forestry, Lignum, Forest Finance, Sharewood, etc. \n";Sleep(1000);
+               cout << "SeriÃ¶s sind diese Anbieter zunÃ¤chst einmal alle. Problematisch fÃ¼r diese Branche ist, dass es einst ein schwarzes Schaf gab, das alle in Verruf gebracht hat. \n";Sleep(1000);
+               cout << "Die Prime Forestry hat nÃ¤mlich 2006 einen unschÃ¶nen Konkurs hingelegt. \n";Sleep(1000);
                cout << "Die heutigen Anbieter sollten jedoch aus dieser Pleite gelernt haben. \n";Sleep(1000);
-               cout << "Renditeversprechen sind dabei natürlich immer skeptisch zu betrachten. \n";Sleep(1000);
+               cout << "Renditeversprechen sind dabei natÃ¼rlich immer skeptisch zu betrachten. \n";Sleep(1000);
                cout << "Keiner kann wissen, wie der Preis in 20 Jahren liegen wird und was alles passieren wird. \n";Sleep(1000);
-               cout << "Dennoch haben seriöse Anbieter einiges an Sicherheit eingebaut. \n";Sleep(1000);
+               cout << "Dennoch haben seriÃ¶se Anbieter einiges an Sicherheit eingebaut. \n";Sleep(1000);
                cout << "Das reicht von einer Garantie gegen Verlust der Setzlinge in den ersten Jahren bis hin zu einer juristischen Trennung von Land und Pflanzen, damit auch bei politischen Unruhen die Investition gesichert bleibt. \n";Sleep(1000);
                cout << "Sicher ist jedoch, dass Holz immer gebraucht werden wird und wer sich die Preisentwicklung der vergangenen Jahrzehnte anschaut darf mit einer Rendite zwischen 3 und im besten Fall sogar 20 Prozent rechnen. \n";Sleep(1000);
-               cout << "Nur die 20 kann keiner garantieren. Wer investiert nimmt immer Risiko in Kauf, zumal eben die lange Laufzeit eine Menge von Unwägbarkeiten mit sich bringt. \n";Sleep(1000);
-               cout << "Bei der Frage der Preise für Setzlinge und Bäume muss genau betrachtet werden, obe es sich um Monokultur, also ausschließlich hochwertiges Holz oder Mischwald mit entsprechendem Ausschuss handelt. \n";Sleep(1000);
-               cout << "Außerdem ist genau zu hinterfragen, wo und wie die Plantagen angelegt werden. \n";Sleep(1000);
-               cout << "Denn je nach geographischer und klimatischer Rahmenbedingungen können Bäume in der Laufzeit mehr oder weniger wachsen und damit Ertrag erwirtschaften. \n";Sleep(1000);
-               cout << "Bei einem Urteil über die Frage ob ein Investment zu teuer oder nicht ist, sollte man daher sehr genau ins Detail gehen. \n";Sleep(1000);
-               cout << "Der zuvor genannte Vergleich der Forest Finance hinkt daher und vergleicht Äpfel mit Birnen. \n";Sleep(1000);
-               cout << "Wer in Holz investiert tut auf jeden Fall etwas gutes für die Umwelt, wenn er nachweisen kann, dass er die entsprechenden Standards berücksichtigt. \n";Sleep(1000);
-               cout << "Diese werden kontrolliert vom FSC. Wichtig ist also, dass der Anbieter über ein FSC-Siegel verfügt. \n";Sleep(1000);
-               cout << "Dieses Siegel mit Prüfnummer läßt sich auch im Internet unter www.fsc-info.org nachprüfen. \n";Sleep(1000);
-               cout << "Vorsicht ist also vor all denen geboten, die eine Zertifizierung behaupten, diese aber nur betrügerisch suggeriert wird. \n";Sleep(1000);
-               cout << "Unsere Recherchen haben jedenfalls ergeben, dass die Life Forestry, ebenso wie fast alle anderen der großen Player zurecht zertifiziert sind. \n";Sleep(1000);
-               cout << "Lediglich die Forest Finance von Harry Assenmacher konnte einer Überprüfung nicht standhalten. \n";Sleep(1000);
-               cout << "das Unternehmen wirbt mit Zertifizierung, nennt aber die Prüfnummer SGS FM/COC-003498 nur auf schriftliche Nachfrage. \n";Sleep(1000);
-               cout << "Eine Überprüfung und Nachfrage haben jedoch ergeben, dass diese Nummer frei erfunden ist. \n";Sleep(5000);
-               cout << "Der FSC hat bestätigt, dass Forest Finance nicht zertifiziert ist.\n";Sleep(1000);
+               cout << "Nur die 20 kann keiner garantieren. Wer investiert nimmt immer Risiko in Kauf, zumal eben die lange Laufzeit eine Menge von UnwÃ¤gbarkeiten mit sich bringt. \n";Sleep(1000);
+               cout << "Bei der Frage der Preise fÃ¼r Setzlinge und BÃ¤ume muss genau betrachtet werden, obe es sich um Monokultur, also ausschlieÃŸlich hochwertiges Holz oder Mischwald mit entsprechendem Ausschuss handelt. \n";Sleep(1000);
+               cout << "AuÃŸerdem ist genau zu hinterfragen, wo und wie die Plantagen angelegt werden. \n";Sleep(1000);
+               cout << "Denn je nach geographischer und klimatischer Rahmenbedingungen kÃ¶nnen BÃ¤ume in der Laufzeit mehr oder weniger wachsen und damit Ertrag erwirtschaften. \n";Sleep(1000);
+               cout << "Bei einem Urteil Ã¼ber die Frage ob ein Investment zu teuer oder nicht ist, sollte man daher sehr genau ins Detail gehen. \n";Sleep(1000);
+               cout << "Der zuvor genannte Vergleich der Forest Finance hinkt daher und vergleicht Ã„pfel mit Birnen. \n";Sleep(1000);
+               cout << "Wer in Holz investiert tut auf jeden Fall etwas gutes fÃ¼r die Umwelt, wenn er nachweisen kann, dass er die entsprechenden Standards berÃ¼cksichtigt. \n";Sleep(1000);
+               cout << "Diese werden kontrolliert vom FSC. Wichtig ist also, dass der Anbieter Ã¼ber ein FSC-Siegel verfÃ¼gt. \n";Sleep(1000);
+               cout << "Dieses Siegel mit PrÃ¼fnummer lÃ¤ÃŸt sich auch im Internet unter www.fsc-info.org nachprÃ¼fen. \n";Sleep(1000);
+               cout << "Vorsicht ist also vor all denen geboten, die eine Zertifizierung behaupten, diese aber nur betrÃ¼gerisch suggeriert wird. \n";Sleep(1000);
+               cout << "Unsere Recherchen haben jedenfalls ergeben, dass die Life Forestry, ebenso wie fast alle anderen der groÃŸen Player zurecht zertifiziert sind. \n";Sleep(1000);
+               cout << "Lediglich die Forest Finance von Harry Assenmacher konnte einer ÃœberprÃ¼fung nicht standhalten. \n";Sleep(1000);
+               cout << "das Unternehmen wirbt mit Zertifizierung, nennt aber die PrÃ¼fnummer SGS FM/COC-003498 nur auf schriftliche Nachfrage. \n";Sleep(1000);
+               cout << "Eine ÃœberprÃ¼fung und Nachfrage haben jedoch ergeben, dass diese Nummer frei erfunden ist. \n";Sleep(5000);
+               cout << "Der FSC hat bestÃ¤tigt, dass Forest Finance nicht zertifiziert ist.\n";Sleep(1000);
                for(int a=2000; a>100; a=a-5)
                        Beep(a,100);
                return 0;      
